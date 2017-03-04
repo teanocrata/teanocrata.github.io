@@ -4,7 +4,7 @@ title: platzigram - Front-end JavaScript
 category: projects
 tags: HTML css JavaScript NodeJS
 image: /images/platzigram.png
-link: https://teanocrata.github.io/invie/
+link: https://teanocrata.github.io/platzigram/
 ---
 
 Proyecto para aprender Javascript para Front-end
