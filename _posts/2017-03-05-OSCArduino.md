@@ -2,6 +2,7 @@
 layout: post
 title: OSCArduino - Arduino weather and soil station
 category: projects
+tags: Arduino c++ fritzing SIM800L Processing
 image: /images/OSCArduino.png
 link: https://github.com/ilice/OSCArduino
 ---

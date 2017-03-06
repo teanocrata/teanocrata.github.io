@@ -1,6 +1,8 @@
 ---
 layout: post
 title: git-project-name - Short description
+category: projectst
+tags: tag
 image: /images/platzigram.png
 link: https://github.com/teanocrata/git-deploy-php
 ---
