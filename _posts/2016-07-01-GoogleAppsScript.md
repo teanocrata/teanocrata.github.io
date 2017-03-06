@@ -2,7 +2,7 @@
 layout: post
 title: GooglAppsScripts - Several Google Apps Scripts
 category: projects
-tags: tag
+tags: Google javascript Apps Scripts
 image: /images/GooglAppsScripts.png
 link: https://github.com/teanocrata/GooglAppsScripts
 ---
