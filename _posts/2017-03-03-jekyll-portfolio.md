@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: media
 title: jekyll-portfolio - Build your own portfolio website with jekyll and Github pages
 category: projects
 tags: HTML css JavaScript NodeJS
-image: /images/jekyll-portfolio.png
+image:
+  teaser: jekyll-portfolio.png
+  feature: jekyll-portfolio.png
+  credit: Isabel Muñoz
+  creditlink: https://github.com/teanocrata
 link: https://teanocrata.github.io/jekyll-portfolio/
 ---
 

@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: media
 title: django-test - Learn Django by example
 category: projects
 tags: Django python gunicorn pythonanywhere
-image: /images/django-test.png
+image:
+  teaser: django-test.png
+  feature: django-test.png
+  credit: Isabel Muñoz
+  creditlink: https://github.com/teanocrata
 link: http://teanocrata.pythonanywhere.com/
 ---
 

@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title: Lo que hago
+  url: /portfolio/
+  excerpt: "Cosas que desarrollo, diseño, cacharreo o lo que sea"
+  image: Planting-Seed-Large.gif
+
+- title: Quién soy
+  url: /about/
+  excerpt: "Simplemente yo"
+  image: 2e77810.jpg
