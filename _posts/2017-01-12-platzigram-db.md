@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: media
 title: platzigram-db - Backend Platzigram, módulo de base de datos con RethinkDB
 category: projects
 tags: RethinkDB StandarJS AVA TDD
-image: /images/platzigram-db.png
+image:
+  teaser: platzigram-db.png
+  feature: platzigram-db.png
+  credit: Isabel Muñoz
+  creditlink: https://github.com/teanocrata
 link: https://github.com/teanocrata/platzigram-db
 ---
 

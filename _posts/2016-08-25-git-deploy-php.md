@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: media
 title: git-deploy (fork)- php-based tool that deploys and keeps updated git repository to FTP/SFTP server
 category: projects
 tags: php git TravisCI
-image: /images/git-deploy-php.png
+image:
+  teaser: git-deploy-php.png
+  feature: git-deploy-php.png
+  credit: Isabel Muñoz
+  creditlink: https://github.com/teanocrata
 link: https://github.com/teanocrata/git-deploy-php
 ---
 

@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: media
 title: platzigram - Front-end JavaScript
 category: projects
 tags: HTML css JavaScript NodeJS
-image: /images/platzigram.png
+image:   
+  teaser: platzigram.png
+  feature: platzigram.png
+  credit: Isabel Muñoz
+  creditlink: https://github.com/teanocrata
 link: https://teanocrata.github.io/platzigram/
 ---
 

@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: media
 title: oscIconFont - Icon Font with Open Smart Country logo
 category: projects
 tags: icon font icomoon
-image: /images/oscIconFont.png
+image:
+  teaser: oscIconFont.png
+  feature: oscIconFont.png
+  credit: Isabel Muñoz
+  creditlink: https://github.com/teanocrata
 link: https://ilice.github.io/oscIconFont/
 ---
 

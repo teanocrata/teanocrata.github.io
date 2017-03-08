@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Github pages are up and running!
 category: posts
 ---

@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: media
 title: GooglAppsScripts - Several Google Apps Scripts
 category: projects
 tags: Google javascript Apps Scripts
-image: /images/GooglAppsScripts.png
+image:
+  teaser: GooglAppsScripts.png
+  feature: GooglAppsScripts.png
+  credit: Isabel Muñoz
+  creditlink: https://github.com/teanocrata
 link: https://github.com/teanocrata/GooglAppsScripts
 ---
 
