@@ -4,11 +4,12 @@ title: platzigram-db - Backend Platzigram, módulo de base de datos con RethinkD
 category: projects
 tags: RethinkDB StandarJS AVA TDD
 image:
-  teaser: platzigram-db.png
+  teaser: platzigram-db_400x250.png
   feature: platzigram-db.png
   credit: Isabel Muñoz
   creditlink: https://github.com/teanocrata
 link: https://github.com/teanocrata/platzigram-db
+comments: true
 ---
 
 *En curso* - Platzigram es una copia de Instagram para aprender Javascript. Este módulo se encarga del acceso a datos de la aplicación. La base de datos utilizada en RethinkDB pero se podría utilizar cualquier otra base de datos adaptando este módulo. Utilizamos RethinkDB porque está pensada para realtime y tener bases javascript en su core.

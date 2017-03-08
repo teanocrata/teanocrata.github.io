@@ -4,11 +4,12 @@ title: platzigram - Front-end JavaScript
 category: projects
 tags: HTML css JavaScript NodeJS
 image:   
-  teaser: platzigram.png
+  teaser: platzigram_400x250.png
   feature: platzigram.png
   credit: Isabel Muñoz
   creditlink: https://github.com/teanocrata
 link: https://teanocrata.github.io/platzigram/
+comments: true
 ---
 
 Proyecto para aprender Javascript para Front-end

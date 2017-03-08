@@ -4,11 +4,12 @@ title: jekyll-portfolio - Build your own portfolio website with jekyll and Githu
 category: projects
 tags: HTML css JavaScript NodeJS
 image:
-  teaser: jekyll-portfolio.png
+  teaser: jekyll-portfolio_400x250.png
   feature: jekyll-portfolio.png
   credit: Isabel Muñoz
   creditlink: https://github.com/teanocrata
 link: https://teanocrata.github.io/jekyll-portfolio/
+comments: true
 ---
 
 Proyecto para probar y entender mejor el funcionamiento de jekyll y GitHub pages

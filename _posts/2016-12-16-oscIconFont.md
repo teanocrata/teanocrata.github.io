@@ -4,11 +4,12 @@ title: oscIconFont - Icon Font with Open Smart Country logo
 category: projects
 tags: icon font icomoon
 image:
-  teaser: oscIconFont.png
+  teaser: oscIconFont_400x250.png
   feature: oscIconFont.png
   credit: Isabel Muñoz
   creditlink: https://github.com/teanocrata
 link: https://ilice.github.io/oscIconFont/
+comments: true
 ---
 
 Fuente de iconos con el logo de Open Smart Country para que al utilizarlo en la web los tamaños se vean perfectamente y se pueda jugar como si fuera una fuente (colores, efectos, etc). Además de una página de ejemplo para ver el uso. Generado gracias a [icomoon](https://icomoon.io/)

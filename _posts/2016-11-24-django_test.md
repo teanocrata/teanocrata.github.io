@@ -4,11 +4,12 @@ title: django-test - Learn Django by example
 category: projects
 tags: Django python gunicorn pythonanywhere
 image:
-  teaser: django-test.png
+  teaser: django-test_400x250.png
   feature: django-test.png
   credit: Isabel Muñoz
   creditlink: https://github.com/teanocrata
 link: http://teanocrata.pythonanywhere.com/
+comments: true
 ---
 
 Aplicación básica en Django para aprender los fundamentos y la filosofía detrás de Django. Está hecha siguiendo dos tutoriales el [tutorial en la página de documentación de Django](https://docs.djangoproject.com/en/1.10/intro/tutorial01/) y el de [DjangoGirls](https://tutorial.djangogirls.org), al final se obtiene una aplicación de encuestas básica donde se pueden ver los sondeos y administrarlos desde un sitio admin para añadir, modificar o borrar los sondeos más un blog y se despliega en [pythonanywhere](https://www.pythonanywhere.com/user/teanocrata/consoles/).

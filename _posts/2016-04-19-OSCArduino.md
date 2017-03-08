@@ -4,11 +4,12 @@ title: OSCArduino - Arduino weather and soil station
 category: projects
 tags: Arduino c++ fritzing SIM800L Processing
 image:
-  teaser: OSCArduino.png
+  teaser: OSCArduino_400x250.png
   feature: OSCArduino.png
   credit: Isabel Muñoz
   creditlink: https://github.com/teanocrata
 link: https://github.com/ilice/OSCArduino
+comments: true
 ---
 
 Estación controlada por arduino con varios sensores, alimentada luz solar y baterías que envía cada cierto tiempo datos gracias a una conexión 2G.

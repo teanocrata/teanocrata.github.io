@@ -4,11 +4,12 @@ title: git-deploy (fork)- php-based tool that deploys and keeps updated git repo
 category: projects
 tags: php git TravisCI
 image:
-  teaser: git-deploy-php.png
+  teaser: git-deploy-php_400x250.png
   feature: git-deploy-php.png
   credit: Isabel Muñoz
   creditlink: https://github.com/teanocrata
 link: https://github.com/teanocrata/git-deploy-php
+comments: true
 ---
 
 Fork del proyecto [Git-deploy-php](http://brunodebarros.github.io/git-deploy-php/) de [BrunoDeBarros](https://github.com/BrunoDeBarros) adaptado para poder desplegar carpetas del repositorio y no el repositorio completo e integrado con [TravisCI](https://travis-ci.org/) para poder hacer el despliegue automático.
