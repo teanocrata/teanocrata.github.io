@@ -46,8 +46,15 @@
     <div id="page-wrapper">
       {% include browser-upgrade.html %}
 
+
+
       <div id="main" role="main">
         <div class="wrap">
+          <div id='tag_cloud'>
+          {% for tag in site.tags %}
+          <a href="{{ site.url }}/portfolio/" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+          {% endfor %}
+          </div>
           <div class="page-title">
             <h1>{{ page.title }}</h1>
             {% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
@@ -60,11 +67,40 @@
         </div><!-- /.wrap -->
       </div><!-- /#main -->
 
+
+<!--
+      <ul id='tag_list'>
+      {% for tag in site.tags %}
+        <li class='tag_item' id='{{ tag[0] }}'>
+          <span class='tag_name'>{{ tag[0] }}</span>
+          <span>
+            <ul>
+            {% for post in tag[1] %}
+              <li class='tag_post'><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
+          </span>
+        </li>
+      {% endfor %}
+      </ul> -->
+
+
+
       {% include footer.html %}
     </div>
 
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
+    <script src="{{ site.url }}/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script>
+    <script language="javascript">
+      $.fn.tagcloud.defaults = {
+          size: {start: 0.7, end: 1.5, unit: 'em'},
+          color: {start: '#81ba80', end: '#06bc03'}
+      };
+      $(function () {
+          $('#tag_cloud a').tagcloud();
+      });
+    </script>
 
   </body>
 
